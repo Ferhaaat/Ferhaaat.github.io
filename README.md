@@ -6,7 +6,7 @@
 
 The blog will help you build an AI-based Fitness Trainer application that analyzes squats. <br> <br> 
 
-[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/scl/fo/zzzj97nb0qfvp6y5bb4i1/h?dl=1&rlkey=kocz4scgphsgt88xy9k6vktxx)
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](streamlit run _Demo.py)
 
 
 
